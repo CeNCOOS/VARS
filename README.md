@@ -1,7 +1,7 @@
 # VARS
 
 Code for accessing and obtaining data from the VARS database and converting it to Darwin Core Standard format.
-https://www.mbari.org/products/research-software/video-annotation-and-reference-system-vars/
+https://www.mbari.org/products/research-software/video-annotation-and-reference-system-vars/ <br>
 https://dwc.tdwg.org/terms/#occurrence
 
 **Author:** Diana LaScala-Gruenewald <br>
