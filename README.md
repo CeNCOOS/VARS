@@ -8,6 +8,6 @@ https://dwc.tdwg.org/terms/#occurrence
 **Code:** Python 3.7
 
 ## Files currently included:
-**VARS.py** - pair of functions for accessing and querying the VARS database
-**VARS_DwC_conversion_200403.ipynb** - Python notebook exploring columns in a small subset of existing VARS data and considering possible DwC terms
+**VARS.py** - pair of functions for accessing and querying the VARS database <br>
+**VARS_DwC_conversion_200403.ipynb** - Python notebook exploring columns in a small subset of existing VARS data and considering possible DwC terms <br>
 
