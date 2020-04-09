@@ -138,8 +138,9 @@ dmypy.json
 # JDBC driver for accessing VARS database
 /mssql-jdbc-8.2.2.jre8.jar
 
-# Logon info for VARS database
+# Logon info for VARS database and scripts including that info
 /VARS_logon_info.txt
+/VARS_db_access.ipynb
 
 # Data files
-.csv
+*.csv
