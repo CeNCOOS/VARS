@@ -10,4 +10,5 @@ https://dwc.tdwg.org/terms/#occurrence
 ## Files currently included:
 **VARS.py** - pair of functions for accessing and querying the VARS database <br>
 **VARS_DwC_conversion_200403.ipynb** - Python notebook exploring columns in a small subset of existing VARS data and considering possible DwC terms; code for initial conversion attempt <br>
+**WoRMS.py** - functions for querying the World Register of Marine Species (WoRMS) REST API
 
