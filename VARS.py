@@ -75,7 +75,7 @@ def get_data(c, sql_str):
     import pandas as pd
 
     # Set cursor
-    cur = conn.cursor()
+    cur = c.cursor()
 
     # Execute sql command
     cur.execute(sql_str)
