@@ -142,5 +142,7 @@ dmypy.json
 /VARS_logon_info.txt
 /VARS_db_access.ipynb
 
-# Data files
+# Data and log files
 *.csv
+*.json
+*.txt
