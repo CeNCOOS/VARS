@@ -146,3 +146,6 @@ dmypy.json
 *.csv
 *.json
 *.txt
+
+# Figures
+*.png
