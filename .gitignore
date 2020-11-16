@@ -153,3 +153,27 @@ dmypy.json
 
 # Saved dictionaries
 *.json
+
+# Shapefiles and maps
+/CB_map.jpg
+/CBNMS_py.cpg
+/CBNMS_py.dbf
+/CBNMS_py.html
+/CBNMS_py.kml
+/CBNMS_py.prj
+/CBNMS_py.sbn
+/CBNMS_py.sbx
+/CBNMS_py.shp
+/CBNMS_py.shp.xml
+/CBNMS_py.shx
+/GF_map.jpg
+/GFNMS_py.cpg
+/GFNMS_py.dbf
+/GFNMS_py.html
+/GFNMS_py.kml
+/GFNMS_py.prj
+/GFNMS_py.sbn
+/GFNMS_py.sbx
+/GFNMS_py.shp
+/GFNMS_py.shp.xml
+/GFNMS_py.shx
