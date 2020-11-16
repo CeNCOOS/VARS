@@ -80,10 +80,13 @@ def get_data(c, sql_str):
     # Execute sql command
     cur.execute(sql_str)
 
+    # Get column names
+    col_names = [name[0] for name in cur.description]
+
     # Save the output to a pandas df
     df = pd.DataFrame(cur.fetchall())
 
-    return df
+    return df, col_names
 
 
 if __name__ == '__main__':
