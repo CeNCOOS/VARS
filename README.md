@@ -2,6 +2,8 @@
 
 Code for accessing and obtaining data from the [VARS database](https://www.mbari.org/products/research-software/video-annotation-and-reference-system-vars/) and converting it to [Darwin Core Standard format](https://dwc.tdwg.org/terms/#occurrence).
 
+This is old development code. For a more polished version, look in the vars-dwc repo.
+
 **Author:** Diana LaScala-Gruenewald <br>
 **Code:** Python 3.7
 
